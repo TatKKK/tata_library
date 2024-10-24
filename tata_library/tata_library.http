@@ -1,0 +1,6 @@
+@tata_library_HostAddress = http://localhost:5086
+
+GET {{tata_library_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
